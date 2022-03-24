@@ -1,0 +1,420 @@
+{
+  "en": {
+    "header": {
+      "links": [
+        { "to": "/about", "title": "About" },
+        { "to": "/ingredients-and-cuisine", "title": "Ingredients and Cuisine" },
+        { "to": "/pass-and-feast", "title": "Pass and Feast" },
+        { "to": "/reality-and-virtual", "title": "Reality to Virtual" }
+      ],
+      "socials": [
+        { "icon": "Discord", "link": "https://discord.gg/" },
+        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+      ]
+    },
+    "bottom": {
+      "white_paper": {
+        "link": "https://plateform-by-unname-token.gitbook.io/plateform/unname-token/guan-wu-she-ou",
+        "title": "White Paper"
+      },
+      "connect_wallet": "Connect Wallet",
+      "links": [
+        { "to": "/about", "title": "About" },
+        { "to": "/ingredients-and-cuisine", "title": "Ingredients and Cuisine" },
+        { "to": "/pass-and-feast", "title": "Pass and Feast" },
+        { "to": "/reality-and-virtual", "title": "Reality to Virtual" }
+      ],
+      "socials": [
+        { "icon": "Discord", "link": "https://discord.gg/" },
+        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+      ]
+    },
+    "homepage": {
+      "datetime_title": "COMING SOON",
+      "datetime": "2022/3/30 11:59",
+      "countdown_duration": {"start": "2022/3/28 13:00", "end": "2022/3/30 12:00"},
+      "mint_duration": {"start": "2022/3/30 13:00", "end": "2022/4/12 13:00"},
+      "marquee": "Dining experience among reality and virtual.",
+      "illustration": [
+        { "title": "BLACK GARLIC", "svg": "/svg/BLACK_GARLIC.svg", "path": "/svg/BLACK_GARLIC_path.svg"},
+        { "title": "ONION", "svg": "/svg/ONION.svg", "path": "/svg/ONION_path.svg"},
+        { "title": "CORIANDER", "svg": "/svg/CORIANDER.svg", "path": "/svg/CORIANDER_path.svg"},
+        { "title": "DAIKON", "svg": "/svg/DAIKON.svg", "path": "/svg/DAIKON_path.svg"},
+        { "title": "NERITIC SQUID", "svg": "/svg/NERITIC_SQUID.svg", "path": "/svg/NERITIC_SQUID_path.svg"},
+        { "title": "OCTOPUS", "svg": "/svg/OCTOPUS.svg", "path": "/svg/OCTOPUS_path.svg"},
+        { "title": "CHERRY TOMATO", "svg": "/svg/CHERRY_TOMATO.svg", "path": "/svg/CHERRY_TOMATO_path.svg"},
+        { "title": "CLAMS", "svg": "/svg/CLAMS.svg", "path": "/svg/CLAMS_path.svg"},
+        { "title": "YILAN SANXING SCALLIAN", "svg": "/svg/YILAN_SANXING_SCALLIAN.svg", "path": "/svg/YILAN_SANXING_SCALLIAN_path.svg"},
+        { "title": "DAHU STRAWBERRY", "svg": "/svg/DAHU_STRAWBERRY.svg", "path": "/svg/DAHU_STRAWBERRY_path.svg"},
+        { "title": "TAINUNG No.17 PINEAPPLE", "svg": "/svg/TAINUNG_No.17_PINEAPPLE.svg", "path": "/svg/TAINUNG_No.17_PINEAPPLE_path.svg"},
+        { "title": "SUGARAPPLE", "svg": "/svg/SUGARAPPLE.svg", "path": "/svg/SUGARAPPLE_path.svg"},
+        { "title": "FIG", "svg": "/svg/FIG.svg", "path": "/svg/FIG_path.svg"},
+        { "title": "KYOHO GRAPE", "svg": "/svg/KYOHO_GRAPE.svg", "path": "/svg/KYOHO_GRAPE_path.svg"},
+        { "title": "LONGAN", "svg": "/svg/LONGAN.svg", "path": "/svg/LONGAN_path.svg"},
+        { "title": "PUFFED-RICE CAKE", "svg": "/svg/PUFFED-RICE_CAKE.svg", "path": "/svg/PUFFED-RICE_CAKE_path.svg"},
+        { "title": "YILAN CHERRY DUCK", "svg": "/svg/YILAN_CHERRY_DUCK.svg", "path": "/svg/YILAN_CHERRY_DUCK_path.svg"},
+        { "title": "PERIGORD TRUFFLE", "svg": "/svg/PERIGORD_TRUFFLE.svg", "path": "/svg/PERIGORD_TRUFFLE_path.svg"},
+        { "title": "BLACKEVILBOAR", "svg": "/svg/BLACKEVILBOAR.svg", "path": "/svg/BLACKEVILBOAR_path.svg"},
+        { "title": "EGG", "svg": "/svg/EGG.svg", "path": "/svg/EGG_path.svg"}
+      ],
+      "mint": {
+        "title": "DUTCH AUCTION",
+        "description": "2200 / 2222",
+        "price" : 0.2,
+        "price_label" : "MINT PRICE",
+        "amount_label": "MINT AMOUNT",
+        "total_label": "TOTAL PRICE",
+        "submit": "MINT NOW"
+      }
+    },
+    "about": {
+      "unname": {
+        "title": "ABOUT  “UNNAME TOKEN”",
+        "content": "The unname token is an organization, a community, and a symbol of decentralization and equality.\nThe first project initiated by the founding team: PlateForm, everyone is welcome to join the unname token by holding PlateForm NFT. There will be more dishes in the future, and will cook, serve and enjoy together with the unname token community."
+      },
+      "discord": {
+        "link": "https://discord.gg/",
+        "title": "unname token"
+      },
+      "platform": {
+        "title": "WHAT IS  “PlateForm”",
+        "content": "PlateForm is derived from the word Platform, Plate is a plate and food, and Form is a form and a form. PlateForm is a place where ingredients are gathered, and after mutual collision, one plate after another of good dishes is brought out.\nPlateForm was the first unname token project, and that's what we're good at."
+      }
+    },
+    "ingredients_and_cuisine": {
+      "heading": "Ingredients represent you and me.\n<span>Even using basic ingredients, you can make an amazing and impressive dish.</span>",
+      "team": {
+        "title": "PlateForm Team",
+        "content": "The core team was born in Taiwan. We are a team with rich backgrounds in catering, design, fashion, and technology, and are committed to creating an ecosystem that combines NFT and the catering industry.",
+        "list": [
+          {
+            "job": "Business Development ",
+            "name": "Andy",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Undefined",
+            "content": "He has 10 years of extensive experience as a senior manager in the F&B industry that is responsible for the business development  and operation division for more than 100 F&B brands. He makes use of his expertise including strategic planning and data analysis to present effective operational strategies. He is also currently the brand manager that works under Bread Talk Group – a Singapore F&B Corporation. During the 2021 pandemic period, he still led the store to achieve an annual profit (PBT) of +$1,300 million, with an annual sale of NTD$120 million. "
+          },
+          {
+            "job": "Head Chef",
+            "name": "Michael",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Undefined",
+            "content": "He is good at producing wonderful dishes by using innovative cooking with traditional and local ingredients. Not to mention, he is currently a shareholder of the restaurant under DAPILI International Group, and also the head chef of Cosmic Bistro. Michael has been staying in Sydney, Australia for 7 years and has experience with the 100-Michelin restaurant and international five-star hotels. He is actively integrating the advantage of overseas F&B culture and business philosophy into the Taiwan market to create and provide a brand-new innovative F&B experience. "
+          },
+          {
+            "job": "Art Director ",
+            "name": "Kai",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Undefined",
+            "content": "He is good at exploring the aesthetic of an entity, creating a new approach, ideas, and stories for brands. He is currently co-founder of Essentia Studio, a Swiss boutique design company, that have created creative and interesting success story in the market. Their client includes Aesop, SAWAA, Marsotto, Hermès, Jaune de chrome, etc."
+          },
+          {
+            "job": "Illustration＆UI/UX Designer",
+            "name": "Nick",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Egg",
+            "content": "He is currently a user experience designer in the fintech industry.  He is a big fan of breakfast and will look for amazing breakfast in each city that he visits. He like egg pancake rolls the most and is determined to open a shop in the future. Besides, he like calligraphy, drawing food illustrations, hoping to create a good-looking and tasty experience. "
+          },
+          {
+            "job": "Social Media Manager",
+            "name": "Robin",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Undefined",
+            "content": "He is a technologist with a software engineer background and is currently a product manager in the tech industry responsible for market analysis, customer development, and organization operations. He is good at building brand value and reputation. He has 3 years of investment experience in cryptocurrency and NFT and likes to discover in the world of web3.0. Not to mention he is being active in the Discord Community with his unique personality. "
+          },
+          {
+            "job": "Blockchain Engineering Team  ",
+            "name": "Toriii Studio",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Undefined",
+            "content": "They are the Toriii Studio blockchain engineering team from NCTU, which has professional NFT technical development experience. They have rich experience in project issuance, that mainly responsible for front and back-end connection, Metadata generation, smart contract customized design, providing low gas contract, security audit, and technical support."
+          }
+        ]
+      }
+
+    },
+    "pass_and_feast": {
+      "title": "2222 PlateForm NFT",
+      "description": "    This is a pass,  made up of ERC-1155. It allows you to become a member of UNNAME TOKEN and gain access to PlateForm dining venues, C2E platform, exclusive offline events, a new PFP that is valid on the metaverse, and not to mentioned more fun things to be revealed over time when the community growth.\n    These are 2,222 passes also known as ingredients. Each of these passes is inspired by Taiwanese local ingredients symbolizing cross-cultural traditions and innovation. Just like everyone in the community are independent and ordinary, but still are able to mingle around perfectly.",
+      "mint": "MINT IT NOW",
+      "note": "What can I do with NFTs?",
+      "list": [
+        { "type": "icon", "image": "/images/nft-1.gif", "title": "Tainung No.17 Pineapple" },
+        { "type": "heading", "content": "Lifetime Profit Sharing" },
+        { "type": "icon", "image": "/images/nft-2.gif", "title": "Longan" },
+        { "type": "icon", "image": "/images/nft-3.gif", "title": "Yilan Cherry Duck" },
+        { "type": "heading", "content": "Brand\nCo-Creation" },
+        { "type": "icon", "image": "/images/nft-4.gif", "title": "Sugar apple" },
+        { "type": "icon", "image": "/images/nft-5.gif", "title": "Coriander" },
+        { "type": "icon", "image": "/images/nft-6.gif", "title": "Egg" },
+        { "type": "icon", "image": "/images/nft-7.gif", "title": "Black Garlic" },
+        { "type": "icon", "image": "/images/nft-8.gif", "title": "Clams" },
+        { "type": "heading", "content": "Free Dining" },
+        { "type": "icon", "image": "/images/nft-9.gif", "title": "Octopus" },
+        { "type": "icon", "image": "/images/nft-10.gif", "title": "Fig" },
+        { "type": "heading", "content": "Exclusive Dining Experience" },
+        { "type": "icon", "image": "/images/nft-11.gif", "title": "Puffed-rice Cakes" },
+        { "type": "icon", "image": "/images/nft-12.gif", "title": "Kyoho Grape" },
+        { "type": "icon", "image": "/images/nft-13.gif", "title": "Daikon" },
+        { "type": "icon", "image": "/images/nft-14.gif", "title": "Perigord Truffle" },
+        { "type": "heading", "content": "Year-end bonus" },
+        { "type": "icon", "image": "/images/nft-15.gif", "title": "Onion" },
+        { "type": "icon", "image": "/images/nft-16.gif", "title": "Dahu Strawberry" },
+        { "type": "icon", "image": "/images/nft-17.gif", "title": "Yilan Sanxing Scallion" },
+        { "type": "icon", "image": "/images/nft-18.gif", "title": "Cherry Tomato" },
+        { "type": "icon", "image": "/images/nft-19.gif", "title": "Neritic Squid" },
+        { "type": "icon", "image": "/images/nft-20.gif", "title": "Blackevilboar" }
+      ]
+    },
+    "reality_and_virtual": {
+      "heading": "From Reality to Virtual",
+      "content": "First of all, we establish physical assets to continuously provide funds and resources for the community, and for all virtual and reality projects of By unname token in the future.",
+      "step_label": "Phase",
+      "process_label": "Processing",
+      "process": 2,
+      "list": [
+        { 
+          "title": "2222 NFT",
+          "content": "This is a pass,  made up of ERC-1155. It allows you to become a member of UNNAME TOKEN and gain access to PlateForm dining venues, C2E platform, exclusive offline events, a new PFP that is valid on the metaverse, and not to mentioned more fun things to be revealed over time when the community growth.\nThese are 2,222 passes also known as ingredients. Each of these passes is inspired by Taiwanese local ingredients symbolizing cross-cultural traditions and innovation. Just like everyone in the community are independent and ordinary, but still are able to mingle around perfectly. ",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "$RICE\nToken",
+          "content": "<strong>The core of the universe, the fuel of the ecology.</strong>\nAs time goes on, the community grows and more applications will be added to $RICE in the future. The launch of $RICE is BY UNNAME TOKEN, which is the core of everything. It will begin applied to the PlateForm, meaning the members can gain access to any of the chain restaurants without additional charge and can use $RICE for the transaction.",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "Food and Beverage Chains",
+          "content": "<strong>NFT Community based Food and Beverage chain</strong>\nCommitted to building an F&B Chain with native NFT communities all over Taiwan. The first common asset of UNNAME TOKEN is the beginning of the community. This will be a space where members can “build the future” together. Members can also enjoy special benefits and rights here and at the same time, it will also bring continuous profits to the members. ",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "C2E\nPlatform",
+          "content": "<strong>Easily earn $RICE and enjoy free dining experiences</strong>\nCommitted to using the consensus economy of the community to provide personalized solutions for the industry. The project team will start with the F&B industry since they have extensive experience and resources in the F&B industry. Once members complete the tasks of the C2E platform to obtain tokens, they can be used at any branch of PLATEFORM F&B chain. This is the reason why we take the chain system as the business goal, which can allow members to make use of $RICE.\nThis is a community-based trial innovation model. We believe that we can use the community advantages of WEB 3.0 to develop a new channel of marketing industry solutions to meet the needs of merchants in exposure marketing. It will be able to provide diversified solutions for the merchant, connecting the supply and demand of the community and achieving mutual benefit and symbiosis between the community and industry. ",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "Explore the Metaverse",
+          "content": "<strong>Expected to start after Phase 4 is complete</strong>\nUsing the DAO method, members will jointly form a metaverse team to start the exploration in the virtual world! Before it begins, we’ll get a brand new metaverse PFP. Members of PlateForm by UNNAME TOKEN will enjoy free minting. ",
+          "icon": "/images/nft-2222.svg"
+        }
+      ]
+
+    }
+  },
+  "zh-TW": {
+    "header": {
+      "links": [
+        { "to": "/about", "title": "關於" },
+        { "to": "/ingredients-and-cuisine", "title": "食材與佳餚" },
+        { "to": "/pass-and-feast", "title": "通行證和盛宴" },
+        { "to": "/reality-and-virtual", "title": "虛擬到現實" }
+      ],
+      "socials": [
+        { "icon": "Discord", "link": "https://discord.gg/" },
+        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+      ]
+    },
+    "bottom": {
+      "white_paper": {
+        "link": "https://plateform-by-unname-token.gitbook.io/plateform/unname-token/guan-wu-she-ou",
+        "title": "白皮書"
+      },
+      "connect_wallet": "連結錢包",
+      "links": [
+        { "to": "/about", "title": "關於" },
+        { "to": "/ingredients-and-cuisine", "title": "食材與佳餚" },
+        { "to": "/pass-and-feast", "title": "通行證和盛宴" },
+        { "to": "/reality-and-virtual", "title": "虛擬到現實" }
+      ],
+      "socials": [
+        { "icon": "Discord", "link": "https://discord.gg/" },
+        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+      ]
+    },
+    "homepage": {
+      "datetime_title": "COMING SOON",
+      "datetime": "2022/3/30 11:59",
+      "countdown_duration": {"start": "2022/3/28 13:00", "end": "2022/3/30 12:00"},
+      "mint_duration": {"start": "2022/3/30 13:00", "end": "2022/4/12 13:00"},
+      "marquee": "Dining experience among reality and virtual.",
+      "illustration": [
+        { "title": "BLACK GARLIC", "svg": "/svg/BLACK_GARLIC.svg", "path": "/svg/BLACK_GARLIC_path.svg"},
+        { "title": "ONION", "svg": "/svg/ONION.svg", "path": "/svg/ONION_path.svg"},
+        { "title": "CORIANDER", "svg": "/svg/CORIANDER.svg", "path": "/svg/CORIANDER_path.svg"},
+        { "title": "DAIKON", "svg": "/svg/DAIKON.svg", "path": "/svg/DAIKON_path.svg"},
+        { "title": "NERITIC SQUID", "svg": "/svg/NERITIC_SQUID.svg", "path": "/svg/NERITIC_SQUID_path.svg"},
+        { "title": "OCTOPUS", "svg": "/svg/OCTOPUS.svg", "path": "/svg/OCTOPUS_path.svg"},
+        { "title": "CHERRY TOMATO", "svg": "/svg/CHERRY_TOMATO.svg", "path": "/svg/CHERRY_TOMATO_path.svg"},
+        { "title": "CLAMS", "svg": "/svg/CLAMS.svg", "path": "/svg/CLAMS_path.svg"},
+        { "title": "YILAN SANXING SCALLIAN", "svg": "/svg/YILAN_SANXING_SCALLIAN.svg", "path": "/svg/YILAN_SANXING_SCALLIAN_path.svg"},
+        { "title": "DAHU STRAWBERRY", "svg": "/svg/DAHU_STRAWBERRY.svg", "path": "/svg/DAHU_STRAWBERRY_path.svg"},
+        { "title": "TAINUNG No.17 PINEAPPLE", "svg": "/svg/TAINUNG_No.17_PINEAPPLE.svg", "path": "/svg/TAINUNG_No.17_PINEAPPLE_path.svg"},
+        { "title": "SUGARAPPLE", "svg": "/svg/SUGARAPPLE.svg", "path": "/svg/SUGARAPPLE_path.svg"},
+        { "title": "FIG", "svg": "/svg/FIG.svg", "path": "/svg/FIG_path.svg"},
+        { "title": "KYOHO GRAPE", "svg": "/svg/KYOHO_GRAPE.svg", "path": "/svg/KYOHO_GRAPE_path.svg"},
+        { "title": "LONGAN", "svg": "/svg/LONGAN.svg", "path": "/svg/LONGAN_path.svg"},
+        { "title": "PUFFED-RICE CAKE", "svg": "/svg/PUFFED-RICE_CAKE.svg", "path": "/svg/PUFFED-RICE_CAKE_path.svg"},
+        { "title": "YILAN CHERRY DUCK", "svg": "/svg/YILAN_CHERRY_DUCK.svg", "path": "/svg/YILAN_CHERRY_DUCK_path.svg"},
+        { "title": "PERIGORD TRUFFLE", "svg": "/svg/PERIGORD_TRUFFLE.svg", "path": "/svg/PERIGORD_TRUFFLE_path.svg"},
+        { "title": "BLACKEVILBOAR", "svg": "/svg/BLACKEVILBOAR.svg", "path": "/svg/BLACKEVILBOAR_path.svg"},
+        { "title": "EGG", "svg": "/svg/EGG.svg", "path": "/svg/EGG_path.svg"}
+      ],
+      "mint": {
+        "title": "公開販售",
+        "description": "2200 / 2222",
+        "price" : 0.2,
+        "price_label" : "價格",
+        "amount_label": "數量",
+        "total_label": "總價",
+        "submit": "立刻鑄造"
+      }
+    },
+    "about": {
+      "unname": {
+        "title": "關於  “UNNAME TOKEN”",
+        "content": "“ unname token 是是指社區裡的每一個人，也是通往去中心化與平等的象徵。 ” 我們是平凡的普通人，各自精彩的普通人，是遊走在新舊世界的嘗試者。我們保持開放、包容與充滿活力與能量的心態面對未知的挑戰。我們認為目前元宇宙的基礎構建尚未成熟，但這並不意味著我們不做這件事情，我們要站穩腳步為即將來臨的新世界做足準備。"
+      },
+      "discord": {
+        "link": "https://discord.gg/",
+        "title": "unname token"
+      },
+      "platform": {
+        "title": "關於  “PlateForm”",
+        "content": "PlateForm 取音自 Platform 平台一詞，Plate 是餐盤也是料理，而 Form 是形式也是形成。PlateForm 以形成群策群力的平台為願景，將食材比擬人才，通過餐飲空間匯聚各方人才與智慧，經過彼此的交互碰撞，端出一盤又一盤的好料理。我們每一個人都專注在各自的領域，運用彼此各自擁有的優勢，一起相互支持與開創。創新來自於跨界能力的整合，我們致力於打造結合 web3.0 的新型態實體餐飲品牌。"
+      }
+    },
+    "ingredients_and_cuisine": {
+      "heading": "食材，代表著你我他。\n即使是一群平凡的食材，也可以用心成就一道驚豔的料理。",
+      "team": {
+        "title": "團隊",
+        "content": "PlateForm 項目團隊誕生於台灣，我們是一個擁有豐富的餐飲、設計、時尚、技術背景的團隊，致力在台灣打造一個 NFT 與餐飲產業結合的生態。 ",
+        "list": [
+          {
+            "job": "餐飲營運",
+            "name": "Andy",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食物：Undefined",
+            "content": "擁有 10 年的餐飲產業招商與營運的資深經理人，曾負責超過 100 家的餐飲品牌商務開發與營運，擅長餐飲品牌營運規劃與佈局，以及運用數據分析為品牌提供有效的營運策略。現任新加坡連鎖餐飲集團 Bread Talk 旗下餐飲品牌店經理，在 2021 年本土疫情嚴峻時期時仍帶領全店創造年度損益(PBT)+$1300萬，年度業績 1.2 億新台幣。"
+          },
+          {
+            "job": "澳洲藍帶主廚",
+            "name": "Michael",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食物：Undefined",
+            "content": "擅長傳統在地食材與創新料理方式的交織運用，現為大霹靂國際旗下餐飲品牌的股東，同時也是 Cosmic Bistro 掌勺主廚。Michael 曾在澳洲雪梨 7 年並擁有世界百大米其林餐廳以及國際五星級酒店的經驗洗禮，正積極將海外的餐飲文化與經營理念的優勢融入台灣市場，打造創新的餐飲體驗。"
+          },
+          {
+            "job": "藝術指導",
+            "name": "Kai",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食物：Undefined",
+            "content": "善於探索一個實體的美學或物質的根源，為品牌創造新的方法，理念以及故事。現任瑞士精品設計公司 Essentia Studio 的共同創辦人，他們為許多品牌打造創意與市場的成功，合作客戶包含 Aesop, SAWAA, Marsotto, Hermès, Jaune de chrome 等。"
+          },
+          {
+            "job": "平面設計＆UI/UX",
+            "name": "Nick",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食物：Egg",
+            "content": "現任金融科技產業的用戶體驗設計師，是一個名符其實的早餐控，會為所到的城市精選每日早餐，努力插旗地圖上的早餐店。最喜歡蛋餅，立志開一家不分派系的蛋餅店，喜歡寫手寫字、畫食物插畫，希望可以創造出好看又好吃的體驗。"
+          },
+          {
+            "job": "社區營運",
+            "name": "Robin",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食物：Undefined",
+            "content": "軟體工程師出身的科技人，現任科技產業的產品經理，負責市場分析、客戶開發、組織營運。他善於建立品牌價值與口碑，擁有 3 年加密貨幣與 NFT 的投資經驗，喜歡在 web3.0 的世界近距離接觸與交流，用獨特的個人魅力恣意活躍於 Disocrd 社區。"
+          },
+          {
+            "job": "區塊鏈工程團隊",
+            "name": "Toriii Studio",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食物：Undefined",
+            "content": "來自交通大學的 NFT 專業技術開發團隊，有豐富的項目發行經驗，主要負責前、後端串接與 Metadata 生成與智能合約客製化設計，提供 low gas 合約與安全審計技術支援。"
+          }
+        ]
+      }
+
+    },
+    "pass_and_feast": {
+      "title": "2222 PlateForm NFT",
+      "description": "<strong>通行憑證</strong>\n是由 ERC-1155 組成。可以讓你成為 UNNAME TOKEN 的會員。首先是 PlateForm 餐飲場所的通行證、C2E 平台、線下獨家活動、通往元宇宙的全新PFP，以及更多有趣的事情將隨著時間的推移與社群的壯大而揭曉的東西。\n\n<strong>2222 枚</strong>\n這是一個通行憑證，也是食材，每一個憑證靈感來自台灣在地的食材，象徵傳統與創新的跨界交織。就像社區裡的每一個人，我們各自獨立平凡，卻又可以精彩地跨界交融。",
+      "mint": "立刻鑄造",
+      "note": "持有者賦能",
+      "list": [
+        { "type": "icon", "image": "/images/nft-1.gif", "title": "金鑽\n鳳梨" },
+        { "type": "heading", "content": "終身\n分潤" },
+        { "type": "icon", "image": "/images/nft-2.gif", "title": "龍眼" },
+        { "type": "icon", "image": "/images/nft-3.gif", "title": "宜蘭\n櫻桃鴨" },
+        { "type": "heading", "content": "品牌\n共創" },
+        { "type": "icon", "image": "/images/nft-4.gif", "title": "釋迦" },
+        { "type": "icon", "image": "/images/nft-5.gif", "title": "香菜" },
+        { "type": "icon", "image": "/images/nft-6.gif", "title": "雞蛋" },
+        { "type": "icon", "image": "/images/nft-7.gif", "title": "黑蒜頭" },
+        { "type": "icon", "image": "/images/nft-8.gif", "title": "蛤蜊" },
+        { "type": "heading", "content": "免費\n用餐" },
+        { "type": "icon", "image": "/images/nft-9.gif", "title": "章魚" },
+        { "type": "icon", "image": "/images/nft-10.gif", "title": "無花果" },
+        { "type": "heading", "content": "獨家\n饗宴" },
+        { "type": "icon", "image": "/images/nft-11.gif", "title": "爆米香" },
+        { "type": "icon", "image": "/images/nft-12.gif", "title": "巨峰\n葡萄" },
+        { "type": "icon", "image": "/images/nft-13.gif", "title": "白蘿蔔" },
+        { "type": "icon", "image": "/images/nft-14.gif", "title": "黑松露" },
+        { "type": "heading", "content": "年終\n分紅" },
+        { "type": "icon", "image": "/images/nft-15.gif", "title": "洋蔥" },
+        { "type": "icon", "image": "/images/nft-16.gif", "title": "大湖\n草莓" },
+        { "type": "icon", "image": "/images/nft-17.gif", "title": "宜蘭\n三星蔥" },
+        { "type": "icon", "image": "/images/nft-18.gif", "title": "聖女\n小番茄" },
+        { "type": "icon", "image": "/images/nft-19.gif", "title": "透抽" },
+        { "type": "icon", "image": "/images/nft-20.gif", "title": "黑豬肉" }
+      ]
+    },
+    "reality_and_virtual": {
+      "heading": "從虛擬到現實",
+      "content": "從區塊鏈的世界到全球首家原生 NFT 社區的連鎖餐飲品牌 —— PlateForm by unname token。兼具精緻與規模的連鎖體系品牌將隨著時間的推移逐步壯大，持有者可以更生活化的方式來體驗與運用 $RICE。",
+      "step_label": "階段",
+      "process_label": "進行中",
+      "process": 2,
+      "list": [
+        { 
+          "title": "2222 NFT",
+          "content": "<strong>通行憑證</strong>\n是由 ERC-1155 組成。可以讓你成為 UNNAME TOKEN 的會員。首先是 PlateForm 餐飲場所的通行證、C2E 平台、線下獨家活動、通往元宇宙的全新PFP，以及更多有趣的事情將隨著時間的推移與社群的壯大而揭曉的東西。\n\n<strong>2222 枚</strong>\n這是一個通行憑證，也是食材，每一個憑證靈感來自台灣在地的食材，象徵傳統與創新的跨界交織。就像社區裡的每一個人，我們各自獨立平凡，卻又可以精彩地跨界交融。",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "$RICE\n代幣",
+          "content": "<strong>一切事物的核心，串聯生態的燃料</strong>隨著時間的推移與社區的增長，未來 $RICE 將會增加更多的應用，推出 $RICE是 BY UNNAME TOKEN 世界中一切事物的核心，首先將應用於 PlateForm 連鎖餐飲品牌，意味著社區持有者到我們的旗下餐飲品牌用餐將不需要額外付費，可以使用 $RICE 進行消費的抵扣。",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "連鎖餐飲品牌",
+          "content": "<strong>原生 NFT 社區的連鎖餐飲品牌</strong>致力於打造遍佈全台灣的原生 NFT 社區的連鎖體系餐飲品牌。首個 UNNAME TOKEN 的共同的資產，是社區的開始。這將是一個可以讓我們所有持有者一起「構築未來」的空間，持有者可以在這裡享有特殊的福利與權益，同時也將為社區持有者們帶來持續性的盈利（收益）。",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "C2E\n產業平台",
+          "content": "<strong>輕鬆賺 $RICE 享免費用餐</strong>致力於運用社區的共識經濟為實體產業提供客製化解決方案。項目方在餐飲產業有豐富的經驗與資源，首先從餐飲行業出發。持有者完成 C2E 平台的任務來獲取代幣，代幣可以在 PlateForm 自有的連鎖餐飲品牌進行消費抵扣。這是我們以連鎖體系為經營目標的原因，可以讓 $RICE 的運用更加生活化。\n\n這是一個基於社區的嘗試性創新模式，我們認為可以運用 WEB3.0 的社群優勢發展新型態的行銷產業解決方案來滿足商戶在行銷曝光的需求。將為個體商戶提供多樣化的解決方案，串聯社區與商戶的供給與需求，達成社區與產業的互利共生。",
+          "icon": "/images/nft-2222.svg"
+        },
+        { 
+          "title": "探索\n元宇宙",
+          "content": "<strong>預計於 Phase 4 完成後啟動</strong>運用 DAO 的方式由社區持有者共同組建元宇宙團隊，開始我們更多在虛擬世界的探索！在開始之前，我們將會先得到一個全新的元宇宙 PFP。\n\n PlateForm by unname token 的持有者將享有免費鑄造。",
+          "icon": "/images/nft-2222.svg"
+        }
+      ]
+
+    }
+  }
+}
