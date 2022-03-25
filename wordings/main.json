@@ -36,26 +36,146 @@
       "mint_duration": {"start": "2022/3/30 13:00", "end": "2022/4/12 13:00"},
       "marquee": "Dining experience among reality and virtual.",
       "illustration": [
-        { "title": "BLACK GARLIC", "svg": "/svg/BLACK_GARLIC.svg", "path": "/svg/BLACK_GARLIC_path.svg"},
-        { "title": "ONION", "svg": "/svg/ONION.svg", "path": "/svg/ONION_path.svg"},
-        { "title": "CORIANDER", "svg": "/svg/CORIANDER.svg", "path": "/svg/CORIANDER_path.svg"},
-        { "title": "DAIKON", "svg": "/svg/DAIKON.svg", "path": "/svg/DAIKON_path.svg"},
-        { "title": "NERITIC SQUID", "svg": "/svg/NERITIC_SQUID.svg", "path": "/svg/NERITIC_SQUID_path.svg"},
-        { "title": "OCTOPUS", "svg": "/svg/OCTOPUS.svg", "path": "/svg/OCTOPUS_path.svg"},
-        { "title": "CHERRY TOMATO", "svg": "/svg/CHERRY_TOMATO.svg", "path": "/svg/CHERRY_TOMATO_path.svg"},
-        { "title": "CLAMS", "svg": "/svg/CLAMS.svg", "path": "/svg/CLAMS_path.svg"},
-        { "title": "YILAN SANXING SCALLIAN", "svg": "/svg/YILAN_SANXING_SCALLIAN.svg", "path": "/svg/YILAN_SANXING_SCALLIAN_path.svg"},
-        { "title": "DAHU STRAWBERRY", "svg": "/svg/DAHU_STRAWBERRY.svg", "path": "/svg/DAHU_STRAWBERRY_path.svg"},
-        { "title": "TAINUNG No.17 PINEAPPLE", "svg": "/svg/TAINUNG_No.17_PINEAPPLE.svg", "path": "/svg/TAINUNG_No.17_PINEAPPLE_path.svg"},
-        { "title": "SUGARAPPLE", "svg": "/svg/SUGARAPPLE.svg", "path": "/svg/SUGARAPPLE_path.svg"},
-        { "title": "FIG", "svg": "/svg/FIG.svg", "path": "/svg/FIG_path.svg"},
-        { "title": "KYOHO GRAPE", "svg": "/svg/KYOHO_GRAPE.svg", "path": "/svg/KYOHO_GRAPE_path.svg"},
-        { "title": "LONGAN", "svg": "/svg/LONGAN.svg", "path": "/svg/LONGAN_path.svg"},
-        { "title": "PUFFED-RICE CAKE", "svg": "/svg/PUFFED-RICE_CAKE.svg", "path": "/svg/PUFFED-RICE_CAKE_path.svg"},
-        { "title": "YILAN CHERRY DUCK", "svg": "/svg/YILAN_CHERRY_DUCK.svg", "path": "/svg/YILAN_CHERRY_DUCK_path.svg"},
-        { "title": "PERIGORD TRUFFLE", "svg": "/svg/PERIGORD_TRUFFLE.svg", "path": "/svg/PERIGORD_TRUFFLE_path.svg"},
-        { "title": "BLACKEVILBOAR", "svg": "/svg/BLACKEVILBOAR.svg", "path": "/svg/BLACKEVILBOAR_path.svg"},
-        { "title": "EGG", "svg": "/svg/EGG.svg", "path": "/svg/EGG_path.svg"}
+        { 
+          "title": "BLACK GARLIC",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/BLACK_GARLIC.svg",
+          "path": "/svg/BLACK_GARLIC_path.svg"
+        },
+        { 
+          "title": "ONION",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/ONION.svg",
+          "path": "/svg/ONION_path.svg"
+        },
+        { 
+          "title": "CORIANDER",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/CORIANDER.svg",
+          "path": "/svg/CORIANDER_path.svg"
+        },
+        { 
+          "title": "DAIKON",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/DAIKON.svg",
+          "path": "/svg/DAIKON_path.svg"
+        },
+        { 
+          "title": "NERITIC SQUID",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/NERITIC_SQUID.svg",
+          "path": "/svg/NERITIC_SQUID_path.svg"
+        },
+        { 
+          "title": "OCTOPUS",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/OCTOPUS.svg",
+          "path": "/svg/OCTOPUS_path.svg"
+        },
+        { 
+          "title": "CHERRY TOMATO",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/CHERRY_TOMATO.svg",
+          "path": "/svg/CHERRY_TOMATO_path.svg"
+        },
+        { 
+          "title": "CLAMS",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/CLAMS.svg",
+          "path": "/svg/CLAMS_path.svg"
+        },
+        { 
+          "title": "YILAN SANXING SCALLIAN",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/YILAN_SANXING_SCALLIAN.svg",
+          "path": "/svg/YILAN_SANXING_SCALLIAN_path.svg"
+        },
+        { 
+          "title": "DAHU STRAWBERRY",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/DAHU_STRAWBERRY.svg",
+          "path": "/svg/DAHU_STRAWBERRY_path.svg"
+        },
+        { 
+          "title": "TAINUNG No.17 PINEAPPLE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/TAINUNG_No.17_PINEAPPLE.svg",
+          "path": "/svg/TAINUNG_No.17_PINEAPPLE_path.svg"
+        },
+        { 
+          "title": "SUGARAPPLE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/SUGARAPPLE.svg",
+          "path": "/svg/SUGARAPPLE_path.svg"
+        },
+        { 
+          "title": "FIG",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/FIG.svg",
+          "path": "/svg/FIG_path.svg"
+        },
+        { 
+          "title": "KYOHO GRAPE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/KYOHO_GRAPE.svg",
+          "path": "/svg/KYOHO_GRAPE_path.svg"
+        },
+        { 
+          "title": "LONGAN",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/LONGAN.svg",
+          "path": "/svg/LONGAN_path.svg"
+        },
+        { 
+          "title": "PUFFED-RICE CAKE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/PUFFED-RICE_CAKE.svg",
+          "path": "/svg/PUFFED-RICE_CAKE_path.svg"
+        },
+        { 
+          "title": "YILAN CHERRY DUCK",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/YILAN_CHERRY_DUCK.svg",
+          "path": "/svg/YILAN_CHERRY_DUCK_path.svg"
+        },
+        { 
+          "title": "PERIGORD TRUFFLE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/PERIGORD_TRUFFLE.svg",
+          "path": "/svg/PERIGORD_TRUFFLE_path.svg"
+        },
+        { 
+          "title": "BLACKEVILBOAR",
+          "during": 10,
+          "play": "loop",
+          "svg": "/svg/BLACKEVILBOAR.svg",
+          "path": "/svg/BLACKEVILBOAR_path.svg"
+        },
+        { 
+          "title": "EGG",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/EGG.svg",
+          "path": "/svg/EGG_path.svg"
+        }
       ],
       "mint": {
         "title": "DUTCH AUCTION",
@@ -177,7 +297,7 @@
       "content": "First of all, we establish physical assets to continuously provide funds and resources for the community, and for all virtual and reality projects of By unname token in the future.",
       "step_label": "Phase",
       "process_label": "Processing",
-      "process": 2,
+      "process": 1,
       "list": [
         { 
           "title": "2222 NFT",
@@ -245,26 +365,146 @@
       "mint_duration": {"start": "2022/3/30 13:00", "end": "2022/4/12 13:00"},
       "marquee": "Dining experience among reality and virtual.",
       "illustration": [
-        { "title": "BLACK GARLIC", "svg": "/svg/BLACK_GARLIC.svg", "path": "/svg/BLACK_GARLIC_path.svg"},
-        { "title": "ONION", "svg": "/svg/ONION.svg", "path": "/svg/ONION_path.svg"},
-        { "title": "CORIANDER", "svg": "/svg/CORIANDER.svg", "path": "/svg/CORIANDER_path.svg"},
-        { "title": "DAIKON", "svg": "/svg/DAIKON.svg", "path": "/svg/DAIKON_path.svg"},
-        { "title": "NERITIC SQUID", "svg": "/svg/NERITIC_SQUID.svg", "path": "/svg/NERITIC_SQUID_path.svg"},
-        { "title": "OCTOPUS", "svg": "/svg/OCTOPUS.svg", "path": "/svg/OCTOPUS_path.svg"},
-        { "title": "CHERRY TOMATO", "svg": "/svg/CHERRY_TOMATO.svg", "path": "/svg/CHERRY_TOMATO_path.svg"},
-        { "title": "CLAMS", "svg": "/svg/CLAMS.svg", "path": "/svg/CLAMS_path.svg"},
-        { "title": "YILAN SANXING SCALLIAN", "svg": "/svg/YILAN_SANXING_SCALLIAN.svg", "path": "/svg/YILAN_SANXING_SCALLIAN_path.svg"},
-        { "title": "DAHU STRAWBERRY", "svg": "/svg/DAHU_STRAWBERRY.svg", "path": "/svg/DAHU_STRAWBERRY_path.svg"},
-        { "title": "TAINUNG No.17 PINEAPPLE", "svg": "/svg/TAINUNG_No.17_PINEAPPLE.svg", "path": "/svg/TAINUNG_No.17_PINEAPPLE_path.svg"},
-        { "title": "SUGARAPPLE", "svg": "/svg/SUGARAPPLE.svg", "path": "/svg/SUGARAPPLE_path.svg"},
-        { "title": "FIG", "svg": "/svg/FIG.svg", "path": "/svg/FIG_path.svg"},
-        { "title": "KYOHO GRAPE", "svg": "/svg/KYOHO_GRAPE.svg", "path": "/svg/KYOHO_GRAPE_path.svg"},
-        { "title": "LONGAN", "svg": "/svg/LONGAN.svg", "path": "/svg/LONGAN_path.svg"},
-        { "title": "PUFFED-RICE CAKE", "svg": "/svg/PUFFED-RICE_CAKE.svg", "path": "/svg/PUFFED-RICE_CAKE_path.svg"},
-        { "title": "YILAN CHERRY DUCK", "svg": "/svg/YILAN_CHERRY_DUCK.svg", "path": "/svg/YILAN_CHERRY_DUCK_path.svg"},
-        { "title": "PERIGORD TRUFFLE", "svg": "/svg/PERIGORD_TRUFFLE.svg", "path": "/svg/PERIGORD_TRUFFLE_path.svg"},
-        { "title": "BLACKEVILBOAR", "svg": "/svg/BLACKEVILBOAR.svg", "path": "/svg/BLACKEVILBOAR_path.svg"},
-        { "title": "EGG", "svg": "/svg/EGG.svg", "path": "/svg/EGG_path.svg"}
+        { 
+          "title": "BLACK GARLIC",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/BLACK_GARLIC.svg",
+          "path": "/svg/BLACK_GARLIC_path.svg"
+        },
+        { 
+          "title": "ONION",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/ONION.svg",
+          "path": "/svg/ONION_path.svg"
+        },
+        { 
+          "title": "CORIANDER",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/CORIANDER.svg",
+          "path": "/svg/CORIANDER_path.svg"
+        },
+        { 
+          "title": "DAIKON",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/DAIKON.svg",
+          "path": "/svg/DAIKON_path.svg"
+        },
+        { 
+          "title": "NERITIC SQUID",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/NERITIC_SQUID.svg",
+          "path": "/svg/NERITIC_SQUID_path.svg"
+        },
+        { 
+          "title": "OCTOPUS",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/OCTOPUS.svg",
+          "path": "/svg/OCTOPUS_path.svg"
+        },
+        { 
+          "title": "CHERRY TOMATO",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/CHERRY_TOMATO.svg",
+          "path": "/svg/CHERRY_TOMATO_path.svg"
+        },
+        { 
+          "title": "CLAMS",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/CLAMS.svg",
+          "path": "/svg/CLAMS_path.svg"
+        },
+        { 
+          "title": "YILAN SANXING SCALLIAN",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/YILAN_SANXING_SCALLIAN.svg",
+          "path": "/svg/YILAN_SANXING_SCALLIAN_path.svg"
+        },
+        { 
+          "title": "DAHU STRAWBERRY",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/DAHU_STRAWBERRY.svg",
+          "path": "/svg/DAHU_STRAWBERRY_path.svg"
+        },
+        { 
+          "title": "TAINUNG No.17 PINEAPPLE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/TAINUNG_No.17_PINEAPPLE.svg",
+          "path": "/svg/TAINUNG_No.17_PINEAPPLE_path.svg"
+        },
+        { 
+          "title": "SUGARAPPLE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/SUGARAPPLE.svg",
+          "path": "/svg/SUGARAPPLE_path.svg"
+        },
+        { 
+          "title": "FIG",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/FIG.svg",
+          "path": "/svg/FIG_path.svg"
+        },
+        { 
+          "title": "KYOHO GRAPE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/KYOHO_GRAPE.svg",
+          "path": "/svg/KYOHO_GRAPE_path.svg"
+        },
+        { 
+          "title": "LONGAN",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/LONGAN.svg",
+          "path": "/svg/LONGAN_path.svg"
+        },
+        { 
+          "title": "PUFFED-RICE CAKE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/PUFFED-RICE_CAKE.svg",
+          "path": "/svg/PUFFED-RICE_CAKE_path.svg"
+        },
+        { 
+          "title": "YILAN CHERRY DUCK",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/YILAN_CHERRY_DUCK.svg",
+          "path": "/svg/YILAN_CHERRY_DUCK_path.svg"
+        },
+        { 
+          "title": "PERIGORD TRUFFLE",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/PERIGORD_TRUFFLE.svg",
+          "path": "/svg/PERIGORD_TRUFFLE_path.svg"
+        },
+        { 
+          "title": "BLACKEVILBOAR",
+          "during": 10,
+          "play": "loop",
+          "svg": "/svg/BLACKEVILBOAR.svg",
+          "path": "/svg/BLACKEVILBOAR_path.svg"
+        },
+        { 
+          "title": "EGG",
+          "during": 10,
+          "play": "normal",
+          "svg": "/svg/EGG.svg",
+          "path": "/svg/EGG_path.svg"
+        }
       ],
       "mint": {
         "title": "公開販售",
@@ -386,7 +626,7 @@
       "content": "從區塊鏈的世界到全球首家原生 NFT 社區的連鎖餐飲品牌 —— PlateForm by unname token。兼具精緻與規模的連鎖體系品牌將隨著時間的推移逐步壯大，持有者可以更生活化的方式來體驗與運用 $RICE。",
       "step_label": "階段",
       "process_label": "進行中",
-      "process": 2,
+      "process": 1,
       "list": [
         { 
           "title": "2222 NFT",
