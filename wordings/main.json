@@ -202,13 +202,21 @@
       }
     },
     "ingredients_and_cuisine": {
-      "heading": "Ingredients represent you and me.\n<span>Even using basic ingredients, you can make an amazing and impressive dish.</span>",
+      "heading": "Ingredients represent you and me. Even using basic ingredients, you can make an amazing and impressive dish.",
       "team": {
         "title": "PlateForm Team",
         "content": "The core team was born in Taiwan. We are a team with rich backgrounds in catering, design, fashion, and technology, and are committed to creating an ecosystem that combines NFT and the catering industry.",
         "list": [
           {
-            "job": "Business Development ",
+            "job": "Host",
+            "name": "ALU",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Pineapple",
+            "content": "He is the Manifestor with the channel of fantasy and desire in the human design system, flowing in the ocean of NFT. In the early of 2022, he gathered his friends who are experts in various fields to begin this mission. He is good at discovering and judging users’ pain points, needs, and desires. He once worked for Tencent in charge of the industry solutions and product design experience of AI Platform and has been continuously exploring the road of innovation."
+          },
+          {
+            "job": "Operating Officer(restaurant)",
             "name": "Andy",
             "icon": "/images/team-alu.svg",
             "full_icon": "/images/team-alu.svg",
@@ -226,16 +234,16 @@
           {
             "job": "Art Director ",
             "name": "Kai",
-            "icon": "/images/team-alu.svg",
-            "full_icon": "/images/team-alu.svg",
+            "icon": "/images/team-kai.svg",
+            "full_icon": "/images/team-kai.svg",
             "title": "Undefined",
             "content": "He is good at exploring the aesthetic of an entity, creating a new approach, ideas, and stories for brands. He is currently co-founder of Essentia Studio, a Swiss boutique design company, that have created creative and interesting success story in the market. Their client includes Aesop, SAWAA, Marsotto, Hermès, Jaune de chrome, etc."
           },
           {
             "job": "Illustration＆UI/UX Designer",
             "name": "Nick",
-            "icon": "/images/team-alu.svg",
-            "full_icon": "/images/team-alu.svg",
+            "icon": "/images/team-nick.svg",
+            "full_icon": "/images/team-nick.svg",
             "title": "Egg",
             "content": "He is currently a user experience designer in the fintech industry.  He is a big fan of breakfast and will look for amazing breakfast in each city that he visits. He like egg pancake rolls the most and is determined to open a shop in the future. Besides, he like calligraphy, drawing food illustrations, hoping to create a good-looking and tasty experience. "
           },
@@ -254,6 +262,14 @@
             "full_icon": "/images/team-alu.svg",
             "title": "Undefined",
             "content": "They are the Toriii Studio blockchain engineering team from NCTU, which has professional NFT technical development experience. They have rich experience in project issuance, that mainly responsible for front and back-end connection, Metadata generation, smart contract customized design, providing low gas contract, security audit, and technical support."
+          },
+          {
+            "job": "lawyer",
+            "name": "OOOO",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "Undefined",
+            "content": "Undefined"
           }
         ]
       }
@@ -261,9 +277,9 @@
     },
     "pass_and_feast": {
       "title": "2222 PlateForm NFT",
-      "description": "    This is a pass,  made up of ERC-1155. It allows you to become a member of UNNAME TOKEN and gain access to PlateForm dining venues, C2E platform, exclusive offline events, a new PFP that is valid on the metaverse, and not to mentioned more fun things to be revealed over time when the community growth.\n    These are 2,222 passes also known as ingredients. Each of these passes is inspired by Taiwanese local ingredients symbolizing cross-cultural traditions and innovation. Just like everyone in the community are independent and ordinary, but still are able to mingle around perfectly.",
-      "mint": "MINT IT NOW",
-      "note": "What can I do with NFTs?",
+      "description": "    This is a pass,  made up of ERC-1155. It allows you to become a member of UNNAME TOKEN and gain access to PlateForm dining venues, C2E platform, exclusive offline events, a new PFP that is valid on the metaverse, and not to mentioned more fun things to be revealed over time when the community growth.\n\n    These are 2,222 passes also known as ingredients. Each of these passes is inspired by Taiwanese local ingredients symbolizing cross-cultural traditions and innovation. Just like everyone in the community are independent and ordinary, but still are able to mingle around perfectly.",
+      "mint": "Mint Now",
+      "note": "Empowerment",
       "list": [
         { "type": "icon", "image": "/images/nft-1.gif", "title": "Tainung No.17 Pineapple" },
         { "type": "heading", "content": "Lifetime Profit Sharing" },
@@ -306,22 +322,22 @@
         },
         { 
           "title": "$RICE\nToken",
-          "content": "<strong>The core of the universe, the fuel of the ecology.</strong>\nAs time goes on, the community grows and more applications will be added to $RICE in the future. The launch of $RICE is BY UNNAME TOKEN, which is the core of everything. It will begin applied to the PlateForm, meaning the members can gain access to any of the chain restaurants without additional charge and can use $RICE for the transaction.",
+          "content": "<strong>The core of the universe, the fuel of the ecology.</strong>\n\nAs time goes on, the community grows and more applications will be added to $RICE in the future. The launch of $RICE is BY UNNAME TOKEN, which is the core of everything. It will begin applied to the PlateForm, meaning the members can gain access to any of the chain restaurants without additional charge and can use $RICE for the transaction.",
           "icon": "/images/nft-2222.svg"
         },
         { 
           "title": "Food and Beverage Chains",
-          "content": "<strong>NFT Community based Food and Beverage chain</strong>\nCommitted to building an F&B Chain with native NFT communities all over Taiwan. The first common asset of UNNAME TOKEN is the beginning of the community. This will be a space where members can “build the future” together. Members can also enjoy special benefits and rights here and at the same time, it will also bring continuous profits to the members. ",
+          "content": "<strong>NFT Community based Food and Beverage chain</strong>\n\nCommitted to building an F&B Chain with native NFT communities all over Taiwan. The first common asset of UNNAME TOKEN is the beginning of the community. This will be a space where members can “build the future” together. Members can also enjoy special benefits and rights here and at the same time, it will also bring continuous profits to the members. ",
           "icon": "/images/nft-2222.svg"
         },
         { 
           "title": "C2E\nPlatform",
-          "content": "<strong>Easily earn $RICE and enjoy free dining experiences</strong>\nCommitted to using the consensus economy of the community to provide personalized solutions for the industry. The project team will start with the F&B industry since they have extensive experience and resources in the F&B industry. Once members complete the tasks of the C2E platform to obtain tokens, they can be used at any branch of PLATEFORM F&B chain. This is the reason why we take the chain system as the business goal, which can allow members to make use of $RICE.\nThis is a community-based trial innovation model. We believe that we can use the community advantages of WEB 3.0 to develop a new channel of marketing industry solutions to meet the needs of merchants in exposure marketing. It will be able to provide diversified solutions for the merchant, connecting the supply and demand of the community and achieving mutual benefit and symbiosis between the community and industry. ",
+          "content": "<strong>Easily earn $RICE and enjoy free dining experiences</strong>\n\nCommitted to using the consensus economy of the community to provide personalized solutions for the industry. The project team will start with the F&B industry since they have extensive experience and resources in the F&B industry. Once members complete the tasks of the C2E platform to obtain tokens, they can be used at any branch of PLATEFORM F&B chain. This is the reason why we take the chain system as the business goal, which can allow members to make use of $RICE.\nThis is a community-based trial innovation model. We believe that we can use the community advantages of WEB 3.0 to develop a new channel of marketing industry solutions to meet the needs of merchants in exposure marketing. It will be able to provide diversified solutions for the merchant, connecting the supply and demand of the community and achieving mutual benefit and symbiosis between the community and industry. ",
           "icon": "/images/nft-2222.svg"
         },
         { 
           "title": "Explore the Metaverse",
-          "content": "<strong>Expected to start after Phase 4 is complete</strong>\nUsing the DAO method, members will jointly form a metaverse team to start the exploration in the virtual world! Before it begins, we’ll get a brand new metaverse PFP. Members of PlateForm by UNNAME TOKEN will enjoy free minting. ",
+          "content": "<strong>Expected to start after Phase 4 is complete</strong>\n\nUsing the DAO method, members will jointly form a metaverse team to start the exploration in the virtual world! Before it begins, we’ll get a brand new metaverse PFP. Members of PlateForm by UNNAME TOKEN will enjoy free minting. ",
           "icon": "/images/nft-2222.svg"
         }
       ]
@@ -537,6 +553,14 @@
         "content": "PlateForm 項目團隊誕生於台灣，我們是一個擁有豐富的餐飲、設計、時尚、技術背景的團隊，致力在台灣打造一個 NFT 與餐飲產業結合的生態。 ",
         "list": [
           {
+            "job": "主持人",
+            "name": "ALU",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食材：鳳梨",
+            "content": "在人類圖上是一位擁有夢想家通道的顯示者，流淌在 NFT 的汪洋大海中，在 2022 年初召集了各領域專才的朋友開啟了這一切。他擅長發現與判斷用戶的痛點、需求與慾求，曾任職騰訊公司（Tencent）負責 Ai 人工智能平台產品與行業解決方案的產品體驗設計，一直持續在創新的路上探索與嘗試。"
+          },
+          {
             "job": "餐飲營運",
             "name": "Andy",
             "icon": "/images/team-alu.svg",
@@ -555,16 +579,16 @@
           {
             "job": "藝術指導",
             "name": "Kai",
-            "icon": "/images/team-alu.svg",
-            "full_icon": "/images/team-alu.svg",
+            "icon": "/images/team-kai.svg",
+            "full_icon": "/images/team-kai.svg",
             "title": "代表食物：Undefined",
             "content": "善於探索一個實體的美學或物質的根源，為品牌創造新的方法，理念以及故事。現任瑞士精品設計公司 Essentia Studio 的共同創辦人，他們為許多品牌打造創意與市場的成功，合作客戶包含 Aesop, SAWAA, Marsotto, Hermès, Jaune de chrome 等。"
           },
           {
             "job": "平面設計＆UI/UX",
             "name": "Nick",
-            "icon": "/images/team-alu.svg",
-            "full_icon": "/images/team-alu.svg",
+            "icon": "/images/team-nick.svg",
+            "full_icon": "/images/team-nick.svg",
             "title": "代表食物：Egg",
             "content": "現任金融科技產業的用戶體驗設計師，是一個名符其實的早餐控，會為所到的城市精選每日早餐，努力插旗地圖上的早餐店。最喜歡蛋餅，立志開一家不分派系的蛋餅店，喜歡寫手寫字、畫食物插畫，希望可以創造出好看又好吃的體驗。"
           },
@@ -583,6 +607,14 @@
             "full_icon": "/images/team-alu.svg",
             "title": "代表食物：Undefined",
             "content": "來自交通大學的 NFT 專業技術開發團隊，有豐富的項目發行經驗，主要負責前、後端串接與 Metadata 生成與智能合約客製化設計，提供 low gas 合約與安全審計技術支援。"
+          },
+          {
+            "job": "律師",
+            "name": "OOOO",
+            "icon": "/images/team-alu.svg",
+            "full_icon": "/images/team-alu.svg",
+            "title": "代表食物：Undefined",
+            "content": "未定"
           }
         ]
       }
