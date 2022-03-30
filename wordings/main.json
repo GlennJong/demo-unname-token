@@ -1,4 +1,30 @@
 {
+  "setting": {
+    "countdown": {
+      "datetime": "2022/4/5 0:00",
+      "duration": {
+        "start": "2022/4/3 13:00",
+        "end": "2022/4/5 0:00"
+      }
+    },
+    "public_mint": {
+      "duration": {
+        "start": "2022/4/5 0:00",
+        "end": "2022/4/6 23:59:59"
+      },
+      "price": 0.2
+    },
+    "dutch_auction": {
+      "duration": {
+        "start": "2022/4/7 16:00",
+        "end": "2022/4/8 18:31"
+      },
+      "time_step": 30,
+      "price_step": 0.0012,
+      "start_price": 0.2,
+      "end_price": 0.1
+    }
+  },
   "en": {
     "header": {
       "links": [
@@ -177,15 +203,12 @@
           "path": "/svg/EGG_path.svg"
         }
       ],
-      "mint": {
-        "title": "DUTCH AUCTION",
-        "description": "2200 / 2222",
-        "price" : 0.2,
-        "price_label" : "MINT PRICE",
-        "amount_label": "MINT AMOUNT",
-        "total_label": "TOTAL PRICE",
-        "submit": "MINT NOW"
-      }
+      "public_mint_title": "PUBLIC MINT",
+      "dutch_auction_title": "DUTCH AUCTION",
+      "price_label" : "MINT PRICE",
+      "amount_label": "MINT AMOUNT",
+      "total_label": "TOTAL PRICE",
+      "mint_submit": "MINT NOW"
     },
     "about": {
       "unname": {
@@ -522,15 +545,12 @@
           "path": "/svg/EGG_path.svg"
         }
       ],
-      "mint": {
-        "title": "公開販售",
-        "description": "2200 / 2222",
-        "price" : 0.2,
-        "price_label" : "價格",
-        "amount_label": "數量",
-        "total_label": "總價",
-        "submit": "立刻鑄造"
-      }
+      "public_mint_title": "公開販售",
+      "dutch_auction_title": "荷蘭式拍賣",
+      "price_label" : "價格",
+      "amount_label": "數量",
+      "total_label": "總價",
+      "mint_submit": "立刻鑄造"
     },
     "about": {
       "unname": {
