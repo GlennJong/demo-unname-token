@@ -17,7 +17,7 @@
     "dutch_auction": {
       "duration": {
         "start": "2022/4/3 14:50",
-        "end": "2022/4/4 15:22"
+        "end": "2022/4/3 15:22"
       },
       "time_step": 1,
       "price_step": 0.0012,
@@ -645,7 +645,7 @@
       "description": "<strong>通行憑證</strong>\n是由 ERC-1155 組成。可以讓你成為 UNNAME TOKEN 的會員。首先是 PlateForm 餐飲場所的通行證、C2E 平台、線下獨家活動、通往元宇宙的全新PFP，以及更多有趣的事情將隨著時間的推移與社群的壯大而揭曉的東西。\n\n<strong>2222 枚</strong>\n這是一個通行憑證，也是食材，每一個憑證靈感來自台灣在地的食材，象徵傳統與創新的跨界交織。就像社區裡的每一個人，我們各自獨立平凡，卻又可以精彩地跨界交融。",
       "mint": "立刻鑄造",
       "note": "持有者賦能",
-      "coming_soon": "Coming Soon!",
+      "coming_soon": "即將開始",
       "list": [
         { "type": "icon", "image": "/images/nft-1.gif", "title": "金鑽\n鳳梨" },
         { "type": "heading", "title": "終身\n分潤", "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit blanditiis, dicta nam voluptate eius animi provident nisi consequuntur consequatur explicabo ratione in non autem aut veritatis aperiam repellat itaque beatae? " },
