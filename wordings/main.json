@@ -9,15 +9,15 @@
     },
     "public_mint": {
       "duration": {
-        "start": "2022/4/2 22:20",
-        "end": "2022/5/1 23:00"
+        "start": "2022/4/1 22:20",
+        "end": "2022/4/2 23:00"
       },
       "price": 0.2
     },
     "dutch_auction": {
       "duration": {
         "start": "2022/4/3 14:50",
-        "end": "2022/4/3 15:22"
+        "end": "2022/4/4 15:22"
       },
       "time_step": 1,
       "price_step": 0.0012,
@@ -35,7 +35,7 @@
       ],
       "socials": [
         { "icon": "Discord", "link": "https://discord.com/invite/unname-token" },
-        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+        { "icon": "Instagram", "link": "https://www.instagram.com/unnametoken.official/" }
       ]
     },
     "bottom": {
@@ -52,7 +52,7 @@
       ],
       "socials": [
         { "icon": "Discord", "link": "https://discord.com/invite/unname-token" },
-        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+        { "icon": "Instagram", "link": "https://www.instagram.com/unnametoken.official/" }
       ]
     },
     "homepage": {
@@ -380,7 +380,7 @@
       ],
       "socials": [
         { "icon": "Discord", "link": "https://discord.com/invite/unname-token" },
-        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+        { "icon": "Instagram", "link": "https://www.instagram.com/unnametoken.official/" }
       ]
     },
     "bottom": {
@@ -397,7 +397,7 @@
       ],
       "socials": [
         { "icon": "Discord", "link": "https://discord.com/invite/unname-token" },
-        { "icon": "Instagram", "link": "https://www.instagram.com/" }
+        { "icon": "Instagram", "link": "https://www.instagram.com/unnametoken.official/" }
       ]
     },
     "homepage": {
