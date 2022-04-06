@@ -339,7 +339,7 @@
         { 
           "title": "2222 NFT",
           "content": "These are 2,222 passes, made up of ERC-1155. It allows you to become a member of Unname Token and gain access to PlateForm dining venues, C2E platform, exclusive offline events, a new PFP that is valid on the metaverse, and not to mentioned more fun things to be revealed over time when the community growth.",
-          "percent": "0%",
+          "percent": "(0%)",
           "icon": "/images/nft-2222.gif"
         },
         { 
@@ -684,7 +684,7 @@
         { 
           "title": "2222 NFTs",
           "content": "總共有 2222 張通行憑證，是由 ERC-1155 組成。可以讓你成為 Unname Token 的會員。首先是 PlateForm 餐飲場所的通行證、C2E 平台、線下獨家活動、通往元宇宙的全新PFP，以及更多有趣的事情將隨著時間的推移與社群的壯大而揭曉的東西。",
-          "percent": "0%",
+          "percent": "(0%)",
           "icon": "/images/nft-2222.gif"
         },
         { 
