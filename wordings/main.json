@@ -532,7 +532,7 @@
         },
         { 
           "title": "BLACKEVILBOAR",
-          "during": 10,
+          "during": 7.5,
           "play": "loop",
           "svg": "/svg/BLACKEVILBOAR.svg",
           "path": "/svg/BLACKEVILBOAR_path.svg"
